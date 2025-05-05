@@ -1,1 +1,0 @@
-BOT_TOKEN="MTM2MzQ4Mzc5MjgzNjEzMzAxNg.Gvq7m2.9XxZgzYwKMWlVcQaSVCiEh1Lk-EfwSLxeFgJiA"
